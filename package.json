@@ -1,0 +1,11 @@
+{
+  "name": "kervyxa-command-heads",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Kervyxa's test-command no-op detector, extracted so the next fix can be bought as an Outcome Contract on kervyxa.com",
+  "main": "command-heads.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
